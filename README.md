@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ethical Programmer</h1>
 <h3 align="center">A passionate discord bot & website developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ethical-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="ethical-programmer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ethical-programmer" alt="ethical-programmer" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js, React.js**
 
 - 👯 I’m looking to collaborate on [DiscoBase](https://github.com/ethical-programmer/discobase)
