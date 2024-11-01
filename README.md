@@ -1,5 +1,8 @@
+![Ethical Programmer](https://i.ibb.co/59zLZ8k/Untitled-design.gif)
+
 <h1 align="center">Hi 👋, I'm Ethical Programmer</h1>
 <h3 align="center">A passionate discord bot & website developer from Pakistan</h3>
+<img align="right" alt="coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400">
 
 - 🌱 I’m currently learning **Next.js, React.js**
 
